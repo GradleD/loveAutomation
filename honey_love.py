@@ -1,7 +1,7 @@
 from twilio.rest import Client
  
-account_sid = 'ACc02ebe530aa975f0b4f13e2120736236' 
-auth_token = '7b6d5c25370dd83ce6838447c3558435' 
+account_sid = 'your account sid' 
+auth_token = 'and your auth token goes here' 
 client = Client(account_sid, auth_token) 
 def send_love():
     message = client.messages.create( 
