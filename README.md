@@ -22,5 +22,7 @@ Download the GitHub repository and extract it.
 
 Inside this, you’ll find our code file and deployment package.
 
+Checkout this video for more detail : https://www.youtube.com/watch?v=pQeFxdT3FGY
+
 
 
